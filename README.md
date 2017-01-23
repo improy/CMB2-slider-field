@@ -1,4 +1,4 @@
-# CMB2-slider-field
+# CMB2 Slider Field Type
 Slider field type for CMB2. Ready to use with a theme
 
 ## Use
@@ -6,7 +6,7 @@ Slider field type for CMB2. Ready to use with a theme
 ```php
 array(
 	    'name'        => __('Slider Field', 'cmb2'),
-	    'id'		      => $prefix . 'slider_field_id',
+	    'id'	  => $prefix . 'slider_field_id',
 	    'desc'        => __('Slider Field Description.','cmb2'),
 	    'type'        => 'slider',
 	    'min'         => '0',
